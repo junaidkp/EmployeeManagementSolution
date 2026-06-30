@@ -21,5 +21,3 @@ The solution includes:
 * JWT Authentication
 * Swagger Documentation
 * Unit Tests
-
-Junaid
