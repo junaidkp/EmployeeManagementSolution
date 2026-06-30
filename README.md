@@ -2,7 +2,7 @@
 
 1. Clone the repository.
 2. Open the solution in Visual Studio.
-3. Create a new SQL Server database (e.g., `EmployeeDB`).
+3. Create a new SQL Server database (`EmployeeDB`).
 4. Execute the SQL script located in the root folder (`script.sql`). This script will create the required tables and insert the sample data.
 5. Update the `DefaultConnection` connection string in `appsettings.json` with your SQL Server instance details.
 6. Build and run the application.
