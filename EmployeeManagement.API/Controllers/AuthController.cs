@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace EmployeeManagement.API.Controllers
 {
     /// <summary>
-    /// Authentication APIs (Login, Token generation)
+    /// Authentication APIs (Login, Token generation )
     /// </summary>
     [ApiController]
     [Route("api/[controller]")]
